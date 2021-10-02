@@ -1,2 +1,2 @@
 # ImprovedCoreUnits
-Reduces the bulding damage nerf of the core units 'Alpha, Beta, Gamma' and gives 'Gamma' a set of back weapons that launch fast moving cannon projectiles. 
+Reduces the bulding damage nerf of the 'Alpha', 'Beta', & 'Gamma' cote units and gives 'Gamma' a set of back weapons that launch fast moving piercing cannon projectiles. 
