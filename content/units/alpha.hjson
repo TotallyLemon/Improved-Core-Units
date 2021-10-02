@@ -1,0 +1,23 @@
+{
+  "weapons": [
+    {
+      "name": "small-mount-weapon",
+      "top": false,
+      "x": 2.75,
+      "y": 1,
+      "reload": 17,
+      "ejectEffect": "casing1",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 11,
+        "width": 7,
+        "height": 9,
+        "lifetime": 60,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "buildingDamageMultiplier": 0.1
+      }
+    }
+  ]
+}
