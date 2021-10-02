@@ -1,6 +1,6 @@
 name: "improved-core-units"
 displayName: "Improved Core Units" //what displays in the mod selection menu
 author: "TotallyLemon[]"
-description: "Lessens the bulding damage nerf. \nGives the Gamma unit 2 piercing back cannons. \n[#00aaff]Credit to The Saus for inspiration[]"
+description: "Lessens the bulding damage nerf. \nGives the Gamma unit 2 piercing back cannons. \n [#00aaff]Credit to The Saus for inspiration[]"
 version: "1.8.4"
 minGameVersion: "131"
